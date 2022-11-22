@@ -4,12 +4,12 @@ import shutil
 import time
 
 # DownloadedTxtFilesLocation = "c:/me/projects/singstar/txtfiles/"
-# combinedFile = "C:/me/projects/singstar/combinedlinksandtitles.txt"
+# inputfile = "C:/me/projects/singstar/combinedlinksandtitles.txt"
 # songlocation = "c:/me/test/" + title
 
 DownloadedTxtFilesLocation = "C:/projects/singstar/txtfiles/"
-combinedFile = "C:/projects/singstar/combinedlinksandtitles.txt"
-outputdir = "c:/projects/singstar/output/"
+inputfile = "C:/projects/singstar/inputfile.txt"
+outputdir = "C:/Users/Jeroen/Downloads/output/"
 
 def changetxtfile(title,mp3value,mp4value):
     fin = open(title + '.txt', 'rt')
@@ -19,7 +19,7 @@ def changetxtfile(title,mp3value,mp4value):
         if line.startswith('#MP3'):
             fout.write('#MP3:' + mp3value + '\n' + '#VIDEO:' + mp4value + '\n')
             continue
-        if line.startswith('#VIDEO'):
+        if line.startswith('#VIDEO'):   
             continue
         else:
             fout.write(line)
@@ -61,7 +61,7 @@ title = ""
 index = 1
 
 d = {}
-with open(combinedFile) as f:
+with open(inputfile) as f:
     for line in f:
         d[index] = line.strip().replace('.txt','') #video
         index += 1
