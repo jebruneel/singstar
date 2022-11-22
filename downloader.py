@@ -1,36 +1,54 @@
 from yt_dlp import YoutubeDL
 import os
 import shutil
+import time
 
-DownloadedTxtFilesLocation = "c:/me/projects/singstar/txtfiles/"
-combinedFile = "C:/me/projects/singstar/combinedlinksandtitles.txt"
+# DownloadedTxtFilesLocation = "c:/me/projects/singstar/txtfiles/"
+# combinedFile = "C:/me/projects/singstar/combinedlinksandtitles.txt"
+# songlocation = "c:/me/test/" + title
 
+DownloadedTxtFilesLocation = "C:/projects/singstar/txtfiles/"
+combinedFile = "C:/projects/singstar/combinedlinksandtitles.txt"
+outputdir = "c:/projects/singstar/output/"
 
 def changetxtfile(title,mp3value,mp4value):
-    print('lol')
+    fin = open(title + '.txt', 'rt')
+    fout = open("out.txt", "wt")
 
+    for line in fin:        
+        if line.startswith('#MP3'):
+            fout.write('#MP3:' + mp3value + '\n' + '#VIDEO:' + mp4value + '\n')
+            continue
+        if line.startswith('#VIDEO'):
+            continue
+        else:
+            fout.write(line)
+
+    fin.close()
+    fout.close()
+
+    os.remove(title + '.txt')
+    os.rename("out.txt", title + '.txt')
 
 def downloadLink(title, videolink):
-    songlocation = "c:/me/test/" + title
+    songlocation = outputdir + title
     os.mkdir(songlocation)
     shutil.copy(DownloadedTxtFilesLocation + title + ".txt", songlocation  + "/" + title + ".txt")
     os.chdir(songlocation)
     #download the whole video
-    ydl_opts = {'outtmpl': songlocation + "/" + title + '.%(ext)s'}
+    ydl_opts = {'outtmpl': songlocation + "/" + title, 
+                'postprocessors': [{'key': 'FFmpegVideoConvertor','preferedformat':'mp4'}]}
     with YoutubeDL(ydl_opts) as ydl:
-        # info = ydl.extract_info(videolink, download=False)
-        # file_extensions = ydl.prepare_filename(info)
-        # print('banana ' + file_extensions)
-        ydl.download(videolink)
+        ydl.download(videolink) 
     #download as mp3
-    # ydl_opts = {'format': 'bestaudio/best',
-    #             'postprocessors': [{
-    #                 'key': 'FFmpegExtractAudio',
-    #                 'preferredcodec': 'mp3',
-    #                 'preferredquality': '320',
-    # }]}
-    # with YoutubeDL(ydl_opts) as ydl:
-    #     ydl.download(videolink)
+    ydl_opts = {'format': 'bestaudio/best',
+                'outtmpl': songlocation + "/" + title + '.mp3',
+                'postprocessors': [{
+                    'key': 'FFmpegExtractAudio',
+                    'preferredcodec': 'mp3',
+                    'preferredquality': '320'}]}
+    with YoutubeDL(ydl_opts) as ydl:
+        ydl.download(videolink)
 
     #change text file to include video and audio
     mp3value = title + '.mp3'
@@ -49,7 +67,7 @@ with open(combinedFile) as f:
         index += 1
 
 diclength = len(d)
-
+    
 print(diclength)
 step = 1
 
