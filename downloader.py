@@ -24,6 +24,8 @@ def changetxtfile(title,mp3value,mp4value):
             continue
         if line.startswith('#VIDEO'):   
             continue
+        if line.startswith('desktop'):
+            continue
         else:
             fout.write(line)
 
@@ -81,9 +83,11 @@ os.remove(inputfile)
 fout = open(inputfile,"wt",encoding="utf-8")
 #put them in the inputfile.txt with the first found youtube vid
 for title in os.listdir(dir):
+    if title.startswith("desktop"):
+        continue
     songtitle = title[0:len(title) - 4]
     fout.write(songtitle + '\n')
-    findvideo(songtitle)
+    findvideo(songtitle)    
 
 fout.close()    
 
