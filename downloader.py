@@ -63,7 +63,7 @@ index = 1
 d = {}
 with open(inputfile) as f:
     for line in f:
-        d[index] = line.strip().replace('.txt','') #video
+        d[index] = line.strip() #.replace('.txt','') #video
         index += 1
 
 diclength = len(d)
