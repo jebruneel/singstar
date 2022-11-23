@@ -1,0 +1,246 @@
+#ARTIST:Herman van Veen
+#TITLE:Zo Vrolijk
+#MP3:Herman van Veen - Zo Vrolijk.mp3
+#LANGUAGE:Dutch
+#BPM:128
+#GAP:19070
+#VIDEO:Herman van Veen - Ik ben vandaag zo vrolijk.flv
+: 0 2 7 Ik 
+: 2 2 12 ben 
+: 4 2 12 van
+: 6 2 12 daag 
+: 8 2 12 zo 
+: 10 2 7 vro
+: 12 2 7 lijk, 
+: 16 2 7 zo 
+: 18 2 9 vro
+: 20 2 9 lijk, 
+: 24 2 9 zo 
+: 26 2 4 vro
+: 28 2 4 lijk.
+- 31
+: 32 2 4 Ik 
+: 34 2 5 ben 
+: 36 2 2 be
+: 38 2 5 hoor
+: 40 2 2 lijk 
+: 42 2 9 vro
+: 44 2 7 lijk, 
+: 48 2 7 zo 
+: 50 2 0 vro
+: 52 2 2 lijk 
+: 54 2 4 was 
+: 56 2 7 ik 
+* 58 4 12 nooit.
+- 63
+: 64 2 7 Ik 
+: 66 2 12 was 
+: 68 2 12 wel 
+: 70 2 12 va
+: 72 2 12 ker 
+: 74 2 7 vro
+: 76 2 7 lijk, 
+- 80
+: 81 2 7 heel 
+: 83 2 9 vro
+: 85 2 9 lijk, 
+: 89 2 9 heel 
+: 91 2 4 vro
+: 93 2 4 lijk, 
+- 96
+: 97 2 4 maar 
+: 99 2 5 zo 
+: 101 2 2 be
+: 103 2 5 hoor
+: 105 2 2 lijk 
+: 107 2 9 vro
+: 109 2 7 lijk, 
+- 112
+: 113 2 7 was 
+: 115 2 0 ik 
+: 117 2 2 tot 
+: 119 2 4 nog 
+: 121 2 7 toe 
+: 123 4 12 nooit. 
+- 158
+: 259 2 12 Soms 
+: 261 2 13 ben 
+: 263 2 13 ik 
+: 265 2 13 on
+: 267 2 13 ge
+: 269 2 8 luk
+: 271 2 8 kig, 
+- 274
+: 275 2 8 ont
+: 277 2 10 zet
+: 279 2 10 tend 
+: 281 2 10 on
+: 283 2 10 ge
+: 285 2 5 luk
+: 287 2 5 kig. 
+- 290
+: 291 2 5 Soms 
+: 293 2 3 ben 
+: 295 2 5 ik 
+: 297 2 6 on
+: 299 2 3 ge
+: 301 2 10 luk
+: 303 2 8 kig, 
+- 306
+: 307 2 8 dan 
+: 309 2 1 sterf 
+: 311 2 3 ik 
+: 313 2 5 van 
+: 315 2 8 ver
+: 317 4 13 driet.
+- 323
+: 324 2 8 Soms 
+: 326 2 13 ben 
+: 328 2 13 ik 
+: 330 2 13 wat 
+: 332 2 13 neu
+: 334 2 8 ro
+: 336 2 8 tisch, 
+- 339
+: 340 2 8 pshy
+: 342 2 10 cho
+: 344 2 10 tisch 
+: 346 2 10 en 
+: 348 2 10 cha
+: 350 2 5 ot
+: 352 2 5 isch, 
+- 355
+: 356 2 5 la
+: 358 2 3 biel 
+: 360 2 5 en 
+: 362 2 6 ne
+: 364 2 3 o
+: 366 2 10 go
+: 368 2 8 tisch, 
+- 372
+: 374 2 1 maar 
+: 376 2 3 van
+: 378 2 5 daag 
+: 380 2 8 dus 
+: 382 4 13 niet. 
+- 398
+* 518 2 7 Van
+* 520 2 12 daag 
+* 522 2 12 ben 
+* 524 2 12 ik 
+* 526 2 12 zo 
+* 528 2 7 vro
+* 530 2 7 lijk, 
+- 533
+: 534 2 7 zo 
+: 536 2 9 vro
+: 538 2 9 lijk, 
+: 542 2 9 zo 
+: 544 2 4 vro
+: 546 2 4 lijk. 
+- 549
+: 550 2 4 Ik 
+: 552 2 5 ben 
+: 554 2 2 be
+: 556 2 5 hoor
+: 558 2 2 lijk 
+: 560 2 9 vro
+: 562 2 7 lijk, 
+- 566
+: 567 2 7 zo 
+: 569 2 0 vro
+: 571 2 2 lijk 
+: 573 2 4 was 
+: 575 2 7 ik 
+: 577 4 12 nooit. 
+- 582
+: 583 2 7 Soms 
+: 585 2 12 ben 
+: 587 2 12 ik 
+: 589 2 12 on
+: 591 2 12 ge
+: 593 2 7 luk
+: 595 2 7 kig, 
+- 598
+: 599 2 7 ont
+: 601 2 9 zet
+: 603 2 9 tend 
+: 605 2 9 on
+: 607 2 9 ge
+: 609 2 4 luk
+: 611 2 4 kig. 
+- 614
+: 615 2 4 Soms 
+: 617 2 5 ben 
+: 619 2 2 ik 
+: 621 2 5 on
+: 623 2 2 ge
+: 625 2 9 luk
+: 627 2 7 kig, 
+- 630
+: 631 2 7 dan 
+: 633 2 0 sterf 
+: 635 2 2 ik 
+: 637 2 4 van 
+: 639 2 7 ver
+: 641 4 12 driet. 
+- 645
+: 646 3 12 Soms 
+: 649 2 13 ben 
+: 651 2 13 ik 
+: 653 2 13 wat 
+: 655 3 13 neu
+: 658 2 8 ro
+: 660 3 8 tisch, 
+- 662
+: 663 2 8 psy
+: 665 2 10 cho
+: 667 2 10 tisch 
+: 670 2 10 en 
+: 672 2 5 cha
+: 674 2 5 o
+: 676 2 5 tisch 
+: 680 2 5 la
+: 682 2 3 biel 
+: 684 2 5 en 
+: 686 2 6 pa
+: 688 2 3 ra
+: 690 2 10 so
+: 692 2 8 tisch
+- 696
+: 698 2 1 maar 
+: 700 2 3 van
+: 702 2 5 daag 
+: 704 2 8 dus 
+: 706 4 13 niet. 
+- 711
+: 712 2 8 Ik 
+: 714 2 13 ben 
+: 716 2 13 van
+: 718 2 13 daag 
+: 720 2 13 dus 
+: 722 2 8 vro
+: 724 2 8 lijk, 
+- 727
+* 728 2 8 zo 
+* 730 2 10 vro
+* 732 2 10 lijk, 
+* 736 2 10 zo 
+* 738 2 5 vro
+* 740 2 5 lijk, 
+- 743
+: 744 2 5 Ik 
+: 746 2 3 ben 
+: 748 2 5 be
+: 750 2 6 hoor
+: 752 2 3 lijk 
+: 754 2 10 vro
+: 756 2 8 lijk, 
+- 759
+: 760 2 8 zo 
+: 762 2 1 vro
+: 764 2 3 lijk 
+: 766 2 5 was 
+: 768 2 8 ik 
+: 770 4 13 nooit. 
+E

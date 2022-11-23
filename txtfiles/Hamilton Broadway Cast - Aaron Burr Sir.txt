@@ -1,0 +1,635 @@
+#ARTIST:Hamilton Broadway Cast
+#TITLE:Aaron Burr, Sir
+#MP3:Hamilton Broadway Cast - Aaron Burr, Sir.mp3
+#EDITION:Hamilton - An American Musical
+#LANGUAGE:English
+#BPM:240
+#GAP:6300
+F 0 3 4 Sev
+F 2 3 4 en
+F 5 4 4 teen
+F 10 4 4  sev
+F 14 3 4 en
+F 17 3 4 ty 
+F 20 8 4 six
+- 30
+F 95 5 4 New
+F 101 4 4  York
+F 106 4 4  Ci
+F 110 6 4 ty
+- 118
+F 120 3 4 Par
+F 123 3 4 don
+F 126 4 4  me,
+F 131 4 4  are
+F 135 3 4  you
+F 138 3 4  Aa
+F 141 3 4 ron
+F 144 4 4  Burr,
+F 152 4 4  sir?
+- 158
+F 187 2 4 Oh,
+F 190 8 4  sure,
+F 200 4 4  sir
+- 205
+F 207 2 4 I’m
+F 210 2 4  Al
+F 212 3 4 ex
+F 215 3 4 an
+F 218 2 4 der
+F 221 3 4  Ham
+F 224 3 4 il
+F 227 3 4 ton,
+F 230 3 4  I’m
+F 233 3 4  at
+F 237 2 4  your
+F 239 5 4  ser
+F 244 3 4 vice,
+F 247 4 4  sir
+- 252
+F 253 3 4 I
+F 257 3 4  have
+F 260 4 4  been
+F 267 2 4  look
+F 269 3 4 ing
+F 273 2 4  for
+F 275 3 4  you
+- 280
+F 297 4 4 Sir,
+F 304 1 4  I
+F 306 2 4  heard
+F 309 2 4  your
+F 312 3 4  name
+F 316 1 4  at
+F 318 3 4  Prince
+F 321 2 4 ton
+- 324
+F 325 2 4 I
+F 327 3 4  was
+F 330 3 4  seek
+F 333 3 4 ing
+F 337 2 4  an
+F 339 3 4  ac
+F 342 3 4 cel
+F 345 2 4 er
+F 347 3 4 a
+F 350 2 4 ted
+F 353 4 4  course
+F 357 2 4  of
+F 359 3 4  stu
+F 362 4 4 dy
+- 367
+F 369 1 4 When
+F 370 1 4  I
+F 372 1 4  got
+F 374 4 4  sort
+F 378 2 4  of
+F 380 3 4  out
+F 383 2 4  of
+F 386 6 4  sorts
+F 393 1 4  with
+F 395 1 4  a
+F 396 3 4  bud
+F 399 1 4 dy
+F 400 4 4  of
+F 406 5 4  yours
+- 412
+F 412 1 4 I
+F 413 3 4  may
+F 416 2 4  have
+F 419 4 4  punched
+F 423 4 4  him
+F 428 1 4  it’s
+F 430 1 4  a
+F 432 2 4  blur,
+F 439 4 4  sir
+- 445
+F 447 1 4 He
+F 449 3 4  hand
+F 452 3 4 les
+F 456 2 4  the
+F 459 3 4  fi
+F 462 4 4 nan
+F 466 8 4 cials?
+- 476
+F 495 4 4 Yes,
+F 501 3 4  I
+F 504 2 4  want
+F 506 3 4 ed
+F 509 1 4  to
+F 510 2 4  do
+F 513 2 4  what
+F 515 4 4  you
+F 519 3 4  did
+- 522
+F 522 4 4 Grad
+F 526 2 4 u
+F 528 3 4 ate
+F 531 2 4  in
+F 534 3 4  two,
+F 537 3 4  then
+F 540 4 4  join
+F 544 2 4  the
+F 546 3 4  rev
+F 549 3 4 o
+F 552 3 4 lu
+F 555 2 4 tion
+- 558
+F 560 1 4 he
+F 562 3 4  looked
+F 565 2 4  at
+F 568 2 4  me
+F 571 3 4  like
+F 575 2 4  I
+F 577 2 4  was
+F 579 4 4  stu
+F 583 3 4 pid
+- 586
+F 586 3 4 I’m
+F 590 3 4  not
+F 594 3 4  stu
+F 597 4 4 pid
+- 602
+F 604 2 4 So
+F 606 3 4  how’d
+F 609 2 4  you
+F 612 2 4  do
+F 614 4 4  it,
+- 619
+F 621 2 4 how’d
+F 623 1 4  you
+F 625 2 4  grad
+F 627 2 4 u
+F 629 4 4 ate
+F 633 2 4  so
+F 636 6 4  fast?
+- 644
+F 695 1 4 You're
+F 696 1 4  an
+F 697 3 4  or
+F 700 3 4 phan,
+F 705 2 4  of
+F 707 8 4  course
+F 717 1 4  I’m
+F 718 1 4  an
+F 719 4 4  or
+F 723 2 4 phan
+- 726
+F 726 3 4 God,
+F 729 3 4  I
+F 732 4 4  wish
+F 736 2 4  there
+F 738 3 4  was
+F 742 1 4  a
+F 744 4 4  war
+- 749
+F 749 2 4 Then
+F 751 2 4  we
+F 754 2 4  could
+F 757 3 4  prove
+- 761
+F 761 1 4 that
+F 762 3 4  we’re
+F 765 3 4  worth
+F 768 5 4  more
+F 773 1 4  than
+F 774 1 4  a
+F 775 3 4 ny
+F 778 2 4 one
+F 781 3 4  bar
+F 784 3 4 gained
+F 788 7 4  for
+- 797
+F 826 2 4 That
+F 829 2 4  would
+F 832 2 4  be
+F 835 5 4  nice
+- 842
+F 930 5 4 What?
+- 937
+F 979 5 -5 Ha
+- 986
+F 1095 3 -8 You
+F 1098 3 -8  can't
+F 1102 2 -8  be
+F 1104 2 -8  ser
+F 1106 3 -10 i
+F 1109 7 -8 ous
+- 1118
+F 1160 4 -10 Yes
+- 1166
+F 1243 3 -12 Yo
+F 1246 5 -13  yo
+F 1251 2 -8  yo
+F 1253 4 -8  yo
+F 1260 7 -8  yo
+- 1267
+F 1267 5 -8 What
+F 1272 6 -8  time
+F 1279 3 -8  is
+F 1283 6 -8  it?
+- 1289
+F 1289 7 -8 Show
+F 1296 9 -8  time
+- 1307
+F 1337 6 -10 Show
+F 1344 5 -12  time,
+F 1350 5 -13  show
+F 1356 5 -8  time
+- 1362
+F 1362 6 -8 Yo,
+F 1368 5 -8  I’m
+F 1374 4 -8  John
+F 1380 4 -8  Lau
+F 1384 2 -8 ren's
+F 1387 2 -8  in
+F 1389 3 -8  the
+F 1392 6 -8  place
+F 1398 4 -8  to
+F 1402 5 -8  be
+- 1408
+F 1410 6 -8 Two
+F 1416 4 -8  pints
+F 1420 2 -8  o’
+F 1423 5 -8  Sam
+F 1428 4 -8  A
+F 1432 3 -8 dams,
+F 1436 2 -8  but
+F 1439 2 -8  I’m
+F 1442 2 -8  work
+F 1444 2 -8 in'
+F 1447 4 -8  on
+F 1452 4 -8  three, 
+F 1457 6 -8 hah
+- 1465
+F 1468 3 -8 Those
+F 1472 3 -8  red
+F 1476 4 -8 coats
+F 1483 4 -8  don’t
+F 1489 3 -8  want
+F 1492 3 -8  it
+F 1496 2 -8  with
+F 1499 3 -8  me
+- 1503
+F 1504 2 -8 'Cause
+F 1507 3 -8  I
+F 1510 2 -8  will
+F 1512 3 -8  pop
+F 1516 4 -8  chick
+F 1520 1 -8 a
+F 1524 5 -8  pop
+F 1530 3 -8  these
+F 1533 4 -8  cops
+F 1538 4 -8  till
+F 1542 4 -8  I’m
+F 1547 4 -8  free
+- 1553
+F 1752 4 -8 Brrrah,
+F 1759 8 -8  brraaah
+F 1770 2 -8  I
+F 1773 2 -8  am
+F 1776 3 -8  Her
+F 1779 4 -8 cu
+F 1783 4 -8 les
+F 1788 3 -8  Mull
+F 1791 3 -8 i
+F 1794 3 -8 gan
+- 1798
+F 1798 2 -8 Up
+F 1800 3 -8  in
+F 1803 2 -8  it,
+F 1806 3 -8  lo
+F 1809 2 -8 vin'
+F 1812 2 -8  it,
+F 1815 2 -8  yes
+F 1818 2 -8  I
+F 1821 2 -8  heard
+F 1824 2 -8  ya
+F 1827 3 -8  mo
+F 1830 2 -8 ther
+F 1833 3 -8  said
+F 1837 3 -8  come
+F 1840 3 -8  a
+F 1843 6 -8 gain
+- 1851
+F 1853 3 -8 lock
+F 1856 2 -8  up
+F 1858 2 -8  ya
+F 1861 4 -8  daugh
+F 1865 2 -8 ters
+F 1868 2 4  and
+F 1871 4 -8  hor
+F 1875 4 -8 ses,
+F 1882 2 -8  of
+F 1885 5 -8  course
+- 1890
+F 1890 4 -8 It’s
+F 1894 3 -8  hard
+F 1897 2 -8  to
+F 1900 3 -8  have
+F 1904 2 -8  in
+F 1906 2 -8 ter
+F 1908 6 -8 course
+F 1915 2 -8  ov
+F 1917 2 -8 er
+F 1920 4 -8  four
+F 1925 3 -8  sets
+F 1929 3 -8  of
+F 1932 5 -8  cor
+F 1937 11 -8 sets
+- 1950
+F 2044 2 -8 Well,
+F 2048 2 -8  if
+F 2050 2 -8  it
+F 2052 2 -8  ain’t
+F 2055 2 -8  the
+F 2058 4 -8  pro
+F 2062 2 -8 di
+F 2064 2 -8 gy
+F 2067 2 -8  of
+F 2070 3 -8  Prince
+F 2073 2 -8 ton
+F 2076 4 -8  coll
+F 2080 4 -8 ege
+- 2086
+F 2089 3 -8 Aa
+F 2092 5 -8 ron
+F 2098 4 -8  Burr
+- 2102
+F 2102 1 -8 Give
+F 2103 3 -8  us
+F 2106 3 -8  a
+F 2110 5 -8  verse,
+F 2116 3 -8  drop
+F 2120 4 -8  some
+F 2125 4 -8  know
+F 2129 7 -8 ledge
+- 2138
+F 2227 3 -8 Burr,
+F 2231 1 -8  the
+F 2233 3 -8  re
+F 2236 2 -8 vo
+F 2238 3 4 lu
+F 2241 3 -8 tion’s
+F 2245 3 -8  im
+F 2248 2 -8 mi
+F 2250 6 -8 nent,
+F 2257 3 -8  what
+F 2260 2 -8  do
+F 2262 3 -8  you
+F 2266 5 -8  stall
+F 2273 3 -8  for?
+- 2277
+F 2277 1 -8 If
+F 2278 2 -8  you
+F 2281 7 -8  stand
+F 2289 2 -8  for
+F 2292 3 -8  noth
+F 2295 2 -8 ing
+F 2298 4 -8  Burr,
+F 2304 2 -8  what
+F 2306 2 -8 'll
+F 2310 3 -8  you
+F 2314 4 -8  fall
+F 2318 6 -8  for?
+- 2326
+F 2345 3 -8 Who
+F 2349 2 -8  are
+F 2351 3 -9  you?
+- 2356
+F 2371 3 -9 Ooh,
+F 2377 2 -9  who
+F 2379 2 -9  is
+F 2382 4 -9  this
+F 2387 4 -9  kid,
+F 2392 3 -9  what’s
+F 2395 2 -9  he
+F 2398 2 -9  gon
+F 2400 2 -9 na
+F 2403 3 -9  do?
+F -1 3 4 Sev
+F 2 3 4 en
+F 5 4 4 teen
+F 10 4 4  sev
+F 14 3 4 en
+F 17 3 4 ty 
+F 20 8 4 six
+- 30
+F 95 5 4 New
+F 101 4 4  York
+F 106 4 4  Ci
+F 110 6 4 ty
+- 118
+F 162 3 4 That
+F 166 2 4  de
+F 168 6 4 pends,
+F 175 3 4  who’s
+F 178 4 4  ask
+F 182 3 4 ing?
+- 187
+F 278 3 4 I’m
+F 282 2 4  get
+F 284 3 4 ting
+F 288 3 4  ner
+F 291 5 4 vous
+- 298
+F 472 2 4 You
+F 475 3 4  punched
+F 479 2 4  the
+F 482 2 4  bur
+F 484 5 4 sar?
+- 491
+F 652 2 4 It
+F 655 2 4  was
+F 658 2 4  my
+F 661 3 4  pa
+F 664 3 4 rent's
+F 667 4 4  dy
+F 671 1 4 ing
+F 673 3 4  wish
+F 677 2 4  be
+F 679 2 4 fore
+F 682 3 4  they
+F 685 6 4  passed
+- 693
+F 801 1 4 Can
+F 803 1 4  I
+F 805 3 4  buy
+F 808 2 4  you
+F 810 2 4  a
+F 813 6 4  drink?
+- 821
+F 846 3 4 While
+F 850 2 4  we’re
+F 853 3 4  talk
+F 856 2 4 ing,
+F 859 2 4  let
+F 862 2 4  me
+F 865 3 4  of
+F 868 3 4 fer
+F 871 2 4  you
+F 873 3 4  some
+F 876 4 4  free
+F 881 3 4  ad
+F 884 6 4 vice
+- 892
+F 901 6 7 Talk
+F 913 13 4  less
+- 928
+: 947 13 7 Smile
+: 960 7 7  mo
+: 967 6 4 ~re
+- 975
+: 992 3 7 Don’t
+: 996 4 7  let
+: 1000 5 7  them
+: 1005 9 7  know
+: 1015 4 4  what
+: 1020 4 7  you're
+: 1024 5 9  a
+: 1029 8 4 gainst
+: 1038 4 2  or
+: 1044 4 0  what
+: 1048 15 4  you're
+: 1063 10 4  for
+- 1075
+: 1125 3 -5 You
+: 1129 7 4  wan
+: 1136 4 2 na
+: 1141 2 0  get
+: 1143 2 2  a
+: 1145 7 4 head?
+- 1154
+: 1176 9 4 Fools
+: 1186 2 2  who
+: 1189 2 0  run
+: 1191 3 2  their
+: 1194 13 4  mouths
+: 1207 5 0  off
+: 1214 9 2  wind
+: 1224 7 0  up
+: 1233 9 -1  dead
+- 1244
+: 1308 6 2 Like
+: 1315 8 0  I
+: 1325 25 -1  said
+- 1352
+F 1555 4 -8 Oui
+F 1560 4 -8  oui,
+F 1566 3 -8  mon
+F 1569 3 -8  a
+F 1572 5 -8 mi,
+F 1578 3 -8  je
+F 1581 3 -8  m’a
+F 1584 4 -8 ppelle
+F 1589 3 -8  La
+F 1593 3 -8 fa
+F 1596 6 -8 yette
+- 1603
+F 1605 3 -8 The 
+F 1608 4 -8 Lanc
+F 1612 2 -8 e
+F 1614 6 -8 lot
+F 1621 2 -8  of
+F 1623 3 -8  the
+F 1627 2 -8  rev
+F 1629 3 -8 o
+F 1632 3 -8 lu
+F 1635 2 -8 tion
+F 1637 3 -8 ar
+F 1640 2 -8 y
+F 1644 5 -8  set
+- 1651
+F 1654 2 -8 I
+F 1656 5 -8  came
+F 1661 4 -8  from
+F 1665 2 -8  a
+F 1667 5 -8 far
+F 1674 3 -8  just
+F 1678 1 -8  to
+F 1680 5 -8  say
+F 1685 4 -8  bon
+F 1690 7 -8 soir
+- 1698
+F 1698 2 -8 Tell
+F 1700 3 -8  the
+F 1703 6 -8  king
+F 1710 2 -8  cas
+F 1712 2 -8 se-
+F 1714 4 -8 toi
+- 1719
+F 1720 2 -8 Who 
+F 1722 2 -8 is
+F 1725 2 -8  the
+F 1728 5 -8  best,
+F 1737 2 -8  c’est
+F 1739 11 -8  moi
+- 1752
+F 1850 15 -8 Ayy
+- 1867
+F 1950 3 -8 No
+F 1954 3 -8  more
+F 1959 6 -8  sex,
+F 1966 2 -8  pour
+F 1969 2 -8  me
+F 1972 2 -8  a
+F 1974 3 -8 no
+F 1977 2 -8 ther
+F 1981 4 -8  brew,
+F 1987 6 -8  son
+- 1994
+F 1995 2 -8 Let’s
+F 1998 2 -8  raise
+F 2001 1 -8  a
+F 2003 3 -8  cou
+F 2006 3 -8 ple
+F 2010 4 -8  more
+F 2015 3 -8  to
+F 2019 3 -8  the
+F 2023 2 -8  re
+F 2025 3 -8 vo
+F 2028 7 -8 lu
+F 2035 7 -8 tion
+- 2044
+F 2146 2 -8 Good
+F 2148 3 -8  luck
+F 2152 2 -8  with
+F 2154 3 -8  that,
+F 2157 2 -8  you’re
+F 2160 3 -8  tak
+F 2163 3 -8 in'
+F 2167 2 -8  a
+F 2170 8 -8  stand
+- 2179
+F 2179 2 -8 You
+F 2183 5 -8  spit,
+F 2189 4 -8  I’m
+F 2194 2 -8  'a
+F 2197 4 -8  sit
+- 2202
+F 2203 2 -8 We’ll
+F 2206 4 -8  see
+F 2211 4 -8  where
+F 2216 3 -8  we
+F 2220 10 -8  land
+- 2232
+F 2329 5 -8 Oh,
+F 2335 3 -8  who
+F 2338 2 -8  are
+F 2340 4 -8  you?
+- 2346
+F 2355 3 -9 Who
+F 2359 3 -9  are
+F 2363 6 -9  you?
+- 2370
+F 2371 3 -9 Ooh,
+F 2377 2 -9  who
+F 2379 2 -9  is
+F 2382 4 -9  this
+F 2387 4 -9  kid,
+F 2392 3 -9  what’s
+F 2395 2 -9  he
+F 2398 2 -9  gon
+F 2400 2 -9 na
+F 2403 3 -9  do?
+E

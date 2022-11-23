@@ -1,0 +1,192 @@
+#ARTIST:Dr. Horrible's Sing-Along Blog
+#TITLE:Penny's Song
+#MP3:Dr. Horrible's Sing-Along Blog - Penny's Song.mp3
+#LANGUAGE:English
+#BPM:240
+#GAP:810
+#VIDEO:Dr. Horrible´s Sing-Along Blog - Penny´s Song [VD#0].avi
+F 0 2 0 ...e
+F 2 2 0 very
+F 4 2 0 thing
+F 6 3 0  hap
+F 9 5 0 pens
+- 16 17
+F 33 4 0 Not
+F 37 2 0  to
+F 39 6 0  me
+- 47 73
+: 93 5 4 Here's
+: 99 2 4  a
+: 104 5 7  sto
+: 110 3 4 ry
+: 116 2 2  of
+: 119 2 0  a
+: 123 5 2  girl
+- 130 131
+: 140 2 -5 Who
+: 144 3 2  grew
+: 148 3 2  up
+: 153 4 2  lost
+: 160 3 0  and
+: 165 5 4  lone
+: 171 6 0 ly
+- 179 180
+: 201 3 4 Thin
+: 205 3 4 king
+: 210 3 7  love
+: 217 2 2  wa
+: 220 2 4 ~s
+: 225 3 2  fai
+: 229 3 0 ry
+: 234 5 2 tale
+- 241
+: 249 2 -5 And
+: 253 2 2  trou
+: 256 3 2 ble
+: 261 3 2  was
+: 267 4 0  made
+: 273 5 4  on
+: 280 4 0 ly
+- 286
+: 290 5 -1 For
+* 297 15 -3  me
+- 314 326
+: 346 6 4 E
+: 353 2 2 ven
+: 357 7 4  in
+: 367 2 2  the
+: 371 5 4  dark
+: 379 3 2 ness
+- 384 385
+: 394 3 0 E
+: 399 5 2 very
+: 407 4 4  co
+: 412 4 2 lor
+: 418 6 4  can
+* 427 4 7  be
+: 434 3 -5  fou
+: 438 10 -3 ~nd
+- 450 451
+: 467 2 0 And
+: 471 5 4  e
+: 477 3 2 very
+: 482 6 4  day
+: 490 4 2  of
+: 498 5 4  rain
+: 506 7 2  brings
+- 515
+: 518 7 0 Wa
+: 526 4 2 ter
+: 533 4 4  flo
+: 538 4 2 wing
+: 545 5 4  to
+: 553 5 2  things
+: 561 6 4  gro
+: 569 6 2 wing
+- 576
+: 577 6 4 In
+: 585 5 7  the
+: 592 3 7  grou
+* 596 20 9 ~nd
+- 618 637
+: 657 4 4 Grief
+: 662 2 4  re
+: 666 3 7 placed
+: 672 3 4  with
+: 678 3 2  pi
+: 682 4 0 ty
+- 688 689
+: 697 2 2 For
+: 700 2 0  a
+: 705 3 2  ci
+: 709 2 0 ty
+: 713 4 2  bare
+: 718 3 0 ly
+: 724 2 2  co
+: 727 2 4 ~
+: 731 5 0 ping
+- 738 739
+: 763 4 4 Dreams
+: 768 3 4  are
+: 773 5 7  ea
+: 779 4 4 sy
+: 787 2 2  to
+: 790 3 0  a
+: 796 5 2 chieve
+- 803
+: 810 2 -5 If
+: 814 4 2  hope
+: 820 2 2  is
+: 824 3 2  all
+: 829 6 0  I'm
+: 837 6 4  ho
+: 845 4 0 ping
+- 851
+: 853 5 -1 To
+* 860 14 -3  be
+- 876 887
+: 907 5 4 A
+: 913 3 2 ny
+: 918 9 4 time
+: 929 3 2  you're
+: 934 4 4  hurt
+: 942 6 2  there's
+: 953 5 0  one
+- 960
+: 962 4 2 Who
+: 969 3 4  has
+: 974 2 2  it
+: 980 5 4  worse
+: 988 2 4  a
+* 991 3 7 ~
+: 996 3 -5 rou
+: 1000 11 -3 ~nd
+- 1013 1014
+: 1029 2 0 And
+: 1033 6 4  e
+: 1040 2 2 very
+: 1044 6 4  drop
+: 1052 3 2  of
+: 1059 5 4  rain
+: 1068 9 2  will
+- 1078
+: 1080 5 0 Keep
+: 1087 5 2  you
+: 1095 3 4  gro
+: 1099 4 2 wing
+: 1108 5 4  seeds
+: 1115 3 2  you're
+: 1122 5 4  so
+: 1128 3 2 ~
+: 1133 4 2 wing
+- 1138
+: 1140 4 4 In
+: 1146 5 7  the
+: 1153 3 7  grou
+* 1158 19 9 ~nd
+- 1179 1180
+: 1204 3 -5 So
+: 1208 2 4  keep
+: 1211 2 4  your
+* 1215 2 7  head
+: 1218 3 4  up
+: 1225 1 2  Bil
+: 1227 2 0 ly,
+: 1231 2 4  bud
+: 1234 2 0 dy
+- 1238 1290
+F 1310 3 0 It's
+F 1313 5 0  like
+F 1318 3 0  Cap
+F 1321 3 0 tain
+F 1324 2 0  Ham
+F 1326 2 0 mer's
+F 1328 2 0  al
+F 1330 3 0 ways
+F 1333 2 0  say
+F 1335 2 0 ing...
+- 1337
+F 1337 4 0 Ssh,
+F 1341 6 0  right,
+F 1350 4 0  him...
+E
