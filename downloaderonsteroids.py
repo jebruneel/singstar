@@ -1,6 +1,7 @@
 import openpyxl
 import requests
-
+import re
+import urllib
 
 def importExcelFile(file):
   # Open the Excel file
@@ -16,27 +17,34 @@ def importExcelFile(file):
      title = row[1].value  # Second column
      # Do something with the cell values
      if artist != None : 
-         searchYoutubeSongFromUSDB(artist, title)
+         searchSongFromUSDB(artist, title)
 
 
-def searchYoutubeSongFromUSDB(artist, title):
+def searchSongFromUSDB(artist, title):
     baseURL = "http://usdb.animux.de/index.php?link=byartist&select="
-
     searchstring = baseURL + artist[0]
+    findsonglinkinwebpage(searchstring, title)
 
-    print('searching song ' + title + ' by ' + artist + ' in website ' + searchstring )
-    find_string_in_webpage(searchstring, title)
 
 def findFirstYoutubeVidInURL(usdburl):
-    baseurl = "http://usdb.animux.de/index.php"
-    songURL = baseurl + usdburl
+    # baseurl = "http://usdb.animux.de/index.php"
+    # songURL = baseurl + usdburl
 
-    #find first youtube video posted on that song page
+    # response = requests.get(songURL)   
+    # if response.status_code == 200:
+    #     # Get the response text
+    #     response_text = response.text
+
+    #     lines = response_text.splitlines()
+        
+    #     for i, line in enumerate(lines):
+    #         print(line)
+    print('ge moet hier nog zorgen dat je de eerste video download van op de songurl website -> maar de eerste video is vaak youtube.com/v/xxxxxxx , how to fix?')
 
 
 
 
-def find_string_in_webpage(url, string_to_find):
+def findsonglinkinwebpage(url, string_to_find):
   # Make a GET request to the given URL
   response = requests.get(url)
 
@@ -58,7 +66,6 @@ def find_string_in_webpage(url, string_to_find):
       # Check if the string is in the line
       if string_to_find in line:
         # If it is, print the line number and the line
-        print(f"Found '{string_to_find}' on line {i+1}: {line}")
         found = True
     
         # define the variable where the result will be stored
@@ -72,7 +79,6 @@ def find_string_in_webpage(url, string_to_find):
         
         # print the result
 
-        print(result)
         findFirstYoutubeVidInURL(result)
     
 
